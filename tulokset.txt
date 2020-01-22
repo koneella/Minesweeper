@@ -1,0 +1,4 @@
+Pelikentta: 3x3, Miinoja: 1, Pelin kesto: 4.0s,          Vuorot: 8, Lopputulos: Voitto, Paivamaara: 2019-12-02 18:49:16 
+Pelikentta: 25x25, Miinoja: 10, Pelin kesto: 1.3s,          Vuorot: 13, Lopputulos: Voitto, Paivamaara: 2019-12-02 18:50:21 
+Pelikentta: 5x5, Miinoja: 10, Pelin kesto: -1575305436.5s,          Vuorot: 3, Lopputulos: Havio, Paivamaara: 2019-12-02 18:50:38 
+Pelikentta: 5x5, Miinoja: 5, Pelin kesto: 0.3s,          Vuorot: 2, Lopputulos: Havio, Paivamaara: 2019-12-12 22:04:41 
